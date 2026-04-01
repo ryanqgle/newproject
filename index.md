@@ -60,7 +60,8 @@ Java | Python | C++ | C + TypeScript | JavaScript | SQL
 ```
 
 ### Frameworks & Libraries
-```FastAPI | React | Next.js | Express | Node.js
+```
+FastAPI | React | Next.js | Express | Node.js
 ```
 
 ### Tools & Platforms

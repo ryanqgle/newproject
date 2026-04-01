@@ -5,11 +5,11 @@ Aspiring **software engineer**
 this is
 test code
 ```
-this is a [test link](localhost:3000)
+this is a [test link](github.com)
 
 Link to top: [Link Text](#ryan-le)
 
-[test relative image](/stoc img.png)
+relative: [Test](stoc img.png)
 
 - this
 - is

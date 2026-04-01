@@ -9,7 +9,7 @@ this is a [test link](github.com)
 
 Link to top: [Link Text](#ryan-le)
 
-relative: [Test](stoc img.png)
+![Relative](/stoc img.png)
 
 - this
 - is

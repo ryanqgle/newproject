@@ -26,31 +26,39 @@ I'm a second-year CS student at UC San Diego with a passion for building things 
 ### University of California, San Diego
 **B.S. in Computer Science** | Aug. 2024 - Present
 
-\\\
+---
 
 ## Projects
 
 ### Market Earnings Calendar
 
-Add later
-
----
-
-### System Emulator
-
-Add later
-
----
-
-### Restaurant Website
-
-Add later
+- Built a financial data platform processing earnings data for **4,000**+ public companies, integrating multiple APIs.
+- Developed Rest API endpoints using FastAPI to collect, normalize, and serve large structured datasets.
+- Designed optimized SQl queries, reducing response times and handling **thousands of records** per request.
+- Built a dynamic Next.js frontend consuming backend APis to visualize financial insights
+- Implemented a NumPy-based ML pipeline analyzing OHLCV time series data to predict next-day closing prices.
 
 ---
 
 ## Experience
 
-Add later
+### Software Engineer
+*ACM @ UC San Diego*
+
+- Developing full-stack **MERN** web application for Peaks and Professors (UCSD chapter).
+- Engineering RESTful APIs to manage event data and dynamic content across the application.
+- Building responsive, modular React components for features including events calendar and spotlights page.
+- Collaborating in a 6-person team using Git and code reviews to deliver maintainable code.
+
+### Lead Builder
+*Scottie Subs (AUVSI Robosub 2023)*
+
+- Constructed an autonomous submarine for **international competition** and testing against **30+ teams**.
+- Led physical assembly of hull, propulsion, and internal mounting systems in a **4-member subteam**.
+- Integrated hardware with onboard electronics and sensors.
+- Collaborated with software and electrical subteams to ensure system compatibility.
+  
+---
 
 ## Skills
 
@@ -75,7 +83,7 @@ Git | Linux | Vercel | Dolt
 - [x] **IEEE Project Developer** - Selected for IEEE's quarterly electronics project development
 - [x] **Chancellor's Associates Scholarship** - Need-based, nomination scholarship awarded to select UCSD students
 - [x] **Blue Robotics Special Award** - Semifinalist merit recognition for Scottie Subs at Robosub 2023
-- [ ] Next: an internship
+- [ ] get an internship
 
   
 
